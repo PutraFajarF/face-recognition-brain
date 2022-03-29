@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/PutraFajarF/face-recognition-brain/static/css/main.b87860b3.chunk.css",
+    "main.js": "/PutraFajarF/face-recognition-brain/static/js/main.8a5e5a6c.chunk.js",
+    "main.js.map": "/PutraFajarF/face-recognition-brain/static/js/main.8a5e5a6c.chunk.js.map",
+    "runtime-main.js": "/PutraFajarF/face-recognition-brain/static/js/runtime-main.45d20d52.js",
+    "runtime-main.js.map": "/PutraFajarF/face-recognition-brain/static/js/runtime-main.45d20d52.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/PutraFajarF/face-recognition-brain/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.2df74137.chunk.js": "/PutraFajarF/face-recognition-brain/static/js/2.2df74137.chunk.js",
+    "static/js/2.2df74137.chunk.js.map": "/PutraFajarF/face-recognition-brain/static/js/2.2df74137.chunk.js.map",
+    "static/js/3.fb543536.chunk.js": "/PutraFajarF/face-recognition-brain/static/js/3.fb543536.chunk.js",
+    "static/js/3.fb543536.chunk.js.map": "/PutraFajarF/face-recognition-brain/static/js/3.fb543536.chunk.js.map",
+    "static/js/4.efa41f97.chunk.js": "/PutraFajarF/face-recognition-brain/static/js/4.efa41f97.chunk.js",
+    "static/js/4.efa41f97.chunk.js.map": "/PutraFajarF/face-recognition-brain/static/js/4.efa41f97.chunk.js.map",
+    "index.html": "/PutraFajarF/face-recognition-brain/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/PutraFajarF/face-recognition-brain/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.b87860b3.chunk.css.map": "/PutraFajarF/face-recognition-brain/static/css/main.b87860b3.chunk.css.map",
+    "static/js/2.2df74137.chunk.js.LICENSE.txt": "/PutraFajarF/face-recognition-brain/static/js/2.2df74137.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45d20d52.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.2df74137.chunk.js",
+    "static/css/main.b87860b3.chunk.css",
+    "static/js/main.8a5e5a6c.chunk.js"
+  ]
+}
